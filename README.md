@@ -4,3 +4,7 @@ GDSCKJSIEIT aspires to expand its student community of passionate and fervent de
 
 With the cooperation of various domains such as Technical, Design and Public Relations, these events are organized with rewarding feedbacks.
 
+<hr>
+
+# The Team
+
