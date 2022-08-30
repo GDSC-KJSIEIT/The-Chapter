@@ -6,5 +6,5 @@ With the cooperation of various domains such as Technical, Design and Public Rel
 
 <hr>
 
-# The Team
+# Our Team
 
